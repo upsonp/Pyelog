@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pyelog
+Version: 0.0.1
+Summary: Python package for reading Elog configuration files and loading logbooks
+Home-page: https://github.com/upsonp/pyelog
+Author: Patrick Upson
+Author-email: upsonp@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/upsonp/pyelog/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+UNKNOWN
+
