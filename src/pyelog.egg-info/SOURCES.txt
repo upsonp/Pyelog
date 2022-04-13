@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-setup.cfg
-src/pyelog/__init__.py
-src/pyelog.egg-info/PKG-INFO
-src/pyelog.egg-info/SOURCES.txt
-src/pyelog.egg-info/dependency_links.txt
-src/pyelog.egg-info/top_level.txt
